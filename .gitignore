@@ -130,3 +130,5 @@ dmypy.json
 
 # flask config
 config.py
+
+.DS_Store
