@@ -32,3 +32,7 @@ $ pipenv install
 ```
 $ flask run --port 5001
 ```
+
+## Sources
+- https://github.com/mitsuhiko/flask-oauth
+- https://github.com/lepture/flask-oauthlib
